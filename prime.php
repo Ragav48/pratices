@@ -18,3 +18,6 @@ if (isPrime($num)) {
 } else {
     echo "$num is not a prime number.";
 }
+?>
+
+<!-- Next one  method -->
