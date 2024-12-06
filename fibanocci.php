@@ -1,17 +1,17 @@
 <?php
-function fibonacci($n)
+
+function fib($n)
 {
     $a = 0;
     $b = 1;
-    echo "$a, $b";
+    echo $a, $b;
+
     for ($i = 2; $i < $n; $i++) {
         $c = $a + $b;
-        echo ", $c";
+        echo $c;
         $a = $b;
         $b = $c;
     }
 }
 
-fibonacci(10);
-
-///There is an another methods are there//
+fib(10);
