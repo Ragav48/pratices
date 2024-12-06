@@ -11,3 +11,6 @@ if ($rev == $test) {
 } else {
     echo "It is not a palindrome";
 }
+
+
+///There is similarily another method also there

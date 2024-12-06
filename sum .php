@@ -7,3 +7,5 @@ if ($num % 2 == 0) {
 } else {
     echo "The number is odd";
 }
+
+/// There is another method also available for the method
