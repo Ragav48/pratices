@@ -54,3 +54,12 @@ $merged = array_merge($array1, $array2, $array3);
 
 print_r($merged);
 ?>
+
+<!-- Delete an array -->
+
+<?php
+$fruits = ["Apple", "Banana", "Cherry"];
+unset($fruits[1]); // Remove the element at index 1 (Banana)
+
+print_r($fruits);
+?>
