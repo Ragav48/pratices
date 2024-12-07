@@ -59,7 +59,7 @@ print_r($merged);
 
 <?php
 $fruits = ["Apple", "Banana", "Cherry"];
-unset($fruits[1]); // Remove the element at index 1 (Banana)
+unset($fruits[1]);
 
 print_r($fruits);
 ?>
