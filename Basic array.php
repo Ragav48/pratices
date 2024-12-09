@@ -3,7 +3,7 @@ Array Programs:
 <!-- To display an array in output: -->
 
 <?php
-$players = ['Raina', 'ABD', 'Jinx'];
+$players = ['Raina', 'ABD', 'Jinx', 'watson'];
 foreach ($players as $player) {
     echo $player . "<br>";
 }
