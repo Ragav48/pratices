@@ -1,6 +1,6 @@
 <?php
 
-$num = 31;
+$num = 79;
 
 if ($num % 2 == 0) {
     echo " The number is even";

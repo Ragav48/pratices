@@ -15,7 +15,7 @@ function isprime($num)
     return true;
 }
 
-$num = 24;
+$num = 79;
 if (isprime($num)) {
     echo "$num is a prime number";
 } else {
