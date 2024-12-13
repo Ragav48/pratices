@@ -11,7 +11,7 @@ echo " The sum is $sum";
 
 ?>
 
-// Using for loop
+<!-- // Using for loop -->
 
 <?php
 $arr = [12, 45, 64, 23];

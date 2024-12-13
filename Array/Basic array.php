@@ -1,4 +1,4 @@
-Array Programs:
+<!-- Array Programs: -->
 
 <!-- To display an array in output: -->
 
