@@ -23,3 +23,28 @@ for ($i = 0; $i < count($arr); $i++) {
 
 echo $sum;
 ?>
+
+<!-- Using predefined method -->
+
+<?php
+
+$array = [1, 2, 34, 67, 90];
+$test1 = array_sum($array);
+
+echo $test1;
+
+?>
+
+<!-- for the associative array -->
+
+<?php
+$arr = ["car" => 10, "Bike" => 12, "Destiny" => 10];
+$sums = 0;
+
+foreach ($arr as $key => $value) {
+    $sums += $value;
+}
+
+echo $sums;
+
+?>
