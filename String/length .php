@@ -10,5 +10,3 @@ function stringLength($str)
 }
 
 echo stringLength("hello");
-?>
-<!-- Next one -->
