@@ -1,4 +1,5 @@
 <?php
+
 $str = "neppah lliw tI";
 
 $strev =  strrev($str);
@@ -6,7 +7,7 @@ $strev =  strrev($str);
 echo $strev;
 
 ?>
-<!-- using for loop -->
+<!-- using the for loop -->
 
 <?php
 $str = "EPOH";
