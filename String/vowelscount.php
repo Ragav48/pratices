@@ -12,4 +12,4 @@ function countVowels($str)
     return $count;
 }
 
-echo countVowels("hello world"); // Output: 3
+echo countVowels("hello world");
