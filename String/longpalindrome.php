@@ -27,4 +27,4 @@ function longestPalindromicSubstring($str)
     return substr($str, $start, $maxLength);
 }
 
-echo longestPalindromicSubstring("babad"); // Output: "bab" or "aba"
+echo longestPalindromicSubstring("babad");
